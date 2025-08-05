@@ -1,0 +1,26 @@
+[
+  {
+    "book": "John",
+    "chapter": 3,
+    "verse": 16,
+    "text": "For God so loved the world, that he gave his only begotten Son..."
+  },
+  {
+    "book": "1 Corinthians",
+    "chapter": 13,
+    "verse": 4,
+    "text": "Charity suffereth long, and is kind; charity envieth not..."
+  },
+  {
+    "book": "Romans",
+    "chapter": 5,
+    "verse": 8,
+    "text": "But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us."
+  },
+  {
+    "book": "Psalm",
+    "chapter": 23,
+    "verse": 1,
+    "text": "The Lord is my shepherd; I shall not want."
+  }
+]
