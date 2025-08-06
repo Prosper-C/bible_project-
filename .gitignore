@@ -1,4 +1,13 @@
+# Virtual environment
 .venv/
+
+# PyCharm project settings
+.idea/
+
+# Bytecode
 __pycache__/
 *.pyc
-.idea/
+
+# OS junk
+.DS_Store
+Thumbs.db
