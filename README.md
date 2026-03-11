@@ -1,6 +1,6 @@
 # Bible Project 📖
 
-A simple Python project for searching and interacting with Bible data.
+A project for searching and interacting with Bible data.
 # Bible Search CLI App
 
 This is a command-line Bible search application written in Python. It allows users to search for words in a sample King James Version (KJV) Bible JSON file and returns matching verses.
